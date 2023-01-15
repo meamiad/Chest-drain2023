@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5mgx2rXIpJI_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">פרוייקט נקז</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="פרוייקט_נקז_ORG">
+    <organization identifier="פרוייקט_נקז_ORG">
+      <title>פרוייקט נקז</title>
+      <item identifier="tab-meet-team_SCO" isvisible="true" identifierref="__5mgx2rXIpJI_course_id_RES">
+        <title>פרוייקט נקז</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5mgx2rXIpJI_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6PChOOpFwPS_DX496_DY496.swf" />
+      <file href="mobile/6PChOOpFwPS_DX496_DY496_CX520_CY184.png" />
+      <file href="story_content/6XaTkvxIBAE_DX542_DY542.swf" />
+      <file href="mobile/6XaTkvxIBAE_DX542_DY542_CX566_CY402.png" />
+      <file href="story_content/Shape66NotUR3Nwg.swf" />
+      <file href="story_content/video_6QcBWtZxScb_22_56_272x288.mp4" />
+      <file href="mobile/poster_66NotUR3Nwg_video_6QcBWtZxScb_22_56_272x288.jpg" />
+      <file href="story_content/6IvbbkNZeKr_DX224_DY224.swf" />
+      <file href="mobile/6IvbbkNZeKr_DX224_DY224_CX201_CY234.png" />
+      <file href="story_content/Shape5fZIsLMtnlP.swf" />
+      <file href="story_content/video_6orSSIQ5bL5_22_56_272x280.mp4" />
+      <file href="mobile/poster_5fZIsLMtnlP_video_6orSSIQ5bL5_22_56_272x280.jpg" />
+      <file href="story_content/Shape5ks7GVz2EyL.swf" />
+      <file href="story_content/video_6QpsObbYLnc_22_56_272x312.mp4" />
+      <file href="mobile/poster_5ks7GVz2EyL_video_6QpsObbYLnc_22_56_272x312.jpg" />
+      <file href="story_content/Shape5rNY2QEuloj.swf" />
+      <file href="story_content/video_5hbc1Mi2B1B_22_56_272x296.mp4" />
+      <file href="mobile/poster_5rNY2QEuloj_video_5hbc1Mi2B1B_22_56_272x296.jpg" />
+      <file href="story_content/Shape6CibdzWANx5.swf" />
+      <file href="story_content/video_6I67gkJDMEm_22_56_272x304.mp4" />
+      <file href="story_content/Shape5xj2EI9kglz.swf" />
+      <file href="story_content/video_5o2z4WUihw4_22_56_588x348.mp4" />
+      <file href="mobile/poster_5xj2EI9kglz_video_5o2z4WUihw4_22_56_588x348.jpg" />
+      <file href="story_content/Shape5y8mQN1T3Kg.swf" />
+      <file href="story_content/video_6IVwCbChOM0_22_56_592x348.mp4" />
+      <file href="mobile/poster_5y8mQN1T3Kg_video_6IVwCbChOM0_22_56_592x348.jpg" />
+      <file href="story_content/Shape5WvVP4knVVy.swf" />
+      <file href="story_content/video_67I85URGVSV_22_56_592x352.mp4" />
+      <file href="mobile/poster_5WvVP4knVVy_video_67I85URGVSV_22_56_592x352.jpg" />
+      <file href="story_content/Shape5rJpQCdO7lF.swf" />
+      <file href="story_content/video_5mFDCUcMQyr_22_56_594x352.mp4" />
+      <file href="mobile/poster_5rJpQCdO7lF_video_5mFDCUcMQyr_22_56_594x352.jpg" />
+      <file href="story_content/Shape5arJJfTteS6.swf" />
+      <file href="story_content/video_6giz429MpMH_22_56_594x352.mp4" />
+      <file href="mobile/poster_5arJJfTteS6_video_6giz429MpMH_22_56_594x352.jpg" />
+      <file href="story_content/67LkQkLDC6V_DX356_DY356.swf" />
+      <file href="mobile/67LkQkLDC6V_DX356_DY356_CX373_CY371.png" />
+      <file href="story_content/6dH1AVDUtyD_DX362_DY362.swf" />
+      <file href="mobile/6dH1AVDUtyD_DX362_DY362_CX271_CY280.png" />
+      <file href="story_content/6bbyVKfwW1V_DX362_DY362.swf" />
+      <file href="mobile/6bbyVKfwW1V_DX362_DY362_CX371_CY379.png" />
+      <file href="story_content/6HrrCFz2pto_DX356_DY356.swf" />
+      <file href="mobile/6HrrCFz2pto_DX356_DY356_CX370_CY373.png" />
+      <file href="story_content/6eMVm7KdoJq_DX358_DY358.swf" />
+      <file href="mobile/6eMVm7KdoJq_DX358_DY358_CX375_CY369.png" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/user.js" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/TLFFactory.swf" />
+      <file href="story_content/slides/6U9N9bBB6PY.swf" />
+      <file href="story_content/data.swf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6U9N9bBB6PY.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="story_flash.html" />
+      <file href="story_content/story.js" />
+      <file href="story_content/blank.html" />
+      <file href="index_lms.html" />
+      <file href="index_lms_flash.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/scormdriver.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
